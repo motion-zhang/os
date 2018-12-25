@@ -1,1 +1,1 @@
-# codes for the operating system course
+# codes from the operating system course
